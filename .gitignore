@@ -1,0 +1,14 @@
+# Secret files
+.env
+*.env
+.env.py
+*.env.py
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+
+# System
+.DS_Store
+Thumbs.db
