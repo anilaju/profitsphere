@@ -1,2 +1,2 @@
 # Profitsphere 
-This is my project description. 
+A simple Tkinter-based GUI application. 
